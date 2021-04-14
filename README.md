@@ -8,12 +8,12 @@
  - 🎧 : I really enjoy listening to music
  - 🏀 : I spend a lot of time playing basketball
 
- ### 🎧 Spotify Playing
- [![Spotify](https://matteotanzicodes.vercel.app/api/spotify)](https://open.spotify.com/user/TaeSpencerTanzi)
+### 🎧 Spotify Playing
+[![Spotify](https://matteotanzicodes.vercel.app/api/spotify)](https://open.spotify.com/user/TaeSpencerTanzi)
 
 <br />
 
----
+
 
 ### Connect with me:
 
@@ -25,7 +25,7 @@
 <br />
 <br />
 
----
+
 
 ### Languages and Tools:
 
@@ -49,7 +49,7 @@
 <br />
 <br />
 
----
+
 
 [twitter]: https://twitter.com/TaeSpencerTanzi
 [youtube]: https://youtube.com/TaeSpencerTanzi
