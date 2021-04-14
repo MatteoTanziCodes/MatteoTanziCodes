@@ -45,7 +45,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Matteo's GitHub Stats" src="https://github-readme-stats.matteotanzicodes.vercel.app/api?username=matteotanzicodesr&show_icons=true&hide_border=true" />
+  <img align="left" alt="Matteo's GitHub Stats" src="https://github-readme-stats.matteotanzicodes.vercel.app/api?username=MatteoTanziCodesr&show_icons=true&hide_border=true" />
 
 </details>
 
