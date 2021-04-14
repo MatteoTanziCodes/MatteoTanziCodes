@@ -41,7 +41,15 @@
 <br />
 <br />
 
+### Stats
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="Matteo's GitHub Stats" src="https://github-readme-stats.matteotanzicodes.vercel.app/api?username=matteotanzicodesr&show_icons=true&hide_border=true" />
+
+</details>
+
 [twitter]: https://twitter.com/TaeSpencerTanzi
 [youtube]: https://youtube.com/TaeSpencerTanzi
-[instagram]: https://instagram.com/TaeTanzi
+[instagram]: https://instagram.com/Tae.Tanzi
 [linkedin]: https://linkedin.com/in/matteospencertanzi
