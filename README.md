@@ -11,7 +11,11 @@
  ### 🎧 Spotify Playing
  [![Spotify](https://matteotanzicodes.vercel.app/api/spotify)](https://open.spotify.com/user/TaeSpencerTanzi)
 
- ### Connect with me:
+<br />
+
+---
+
+### Connect with me:
 
 [<img align="left" alt="TaeSpencerTanzi | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="TaeSpencerTanzi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -19,6 +23,9 @@
 [<img align="left" alt="TaeSpencerTanzi | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+<br />
+
+---
 
 ### Languages and Tools:
 
@@ -43,6 +50,7 @@
 <br />
 
 ---
+
 [twitter]: https://twitter.com/TaeSpencerTanzi
 [youtube]: https://youtube.com/TaeSpencerTanzi
 [instagram]: https://instagram.com/TaeTanzi
