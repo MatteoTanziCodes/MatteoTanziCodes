@@ -12,7 +12,7 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify]((https://now-playing-codestackr.vercel.app/api/spotify-playing)](https://open.spotify.com/user/4viqlw457noxkrwtnxkm2lccl)
+[![Spotify](https://now-playing-codestackr.vercel.app/api/spotify-playing)](https://open.spotify.com/user/4viqlw457noxkrwtnxkm2lccl)
 
 ### Connect with me 📳
 
@@ -61,13 +61,7 @@
 
 </details>
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
 
-
-</details>
 
 ---
 
