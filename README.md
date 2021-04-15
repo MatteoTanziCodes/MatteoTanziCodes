@@ -12,7 +12,7 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://matteotanzicodes.vercel.app/api/spotify)](https://open.spotify.com/user/4viqlw457noxkrwtnxkm2lccl)
+[![Spotify](https://novatorem-matteotanzicodes.vercel.app/)](https://open.spotify.com/user/4viqlw457noxkrwtnxkm2lccl)
 
 ### Connect with me 📳
 
