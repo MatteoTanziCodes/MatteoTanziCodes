@@ -72,7 +72,7 @@
 
 <!--END_SECTION:activity-->
 
-<details>
+</details>
 ---
 
 👇🏻 Here is a list of the Open Source projects I work on: 👇🏻
