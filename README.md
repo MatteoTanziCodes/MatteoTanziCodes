@@ -12,7 +12,7 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://matteotanzicodes.vercel.app/api/novatorem)](https://open.spotify.com/user/4viqlw457noxkrwtnxkm2lccl)
+[![Spotify]((https://now-playing-codestackr.vercel.app/api/spotify-playing)](https://open.spotify.com/user/4viqlw457noxkrwtnxkm2lccl)
 
 ### Connect with me 📳
 
@@ -54,7 +54,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  [![Matteo's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatteoTanziCodes&show_icons=true&include_all_commits=true&bg_color=45,#a83e32,#a87532)](https://github.com/MatteoTanziCodes/github-readme-stats)
+  [![Matteo's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatteoTanziCodes&show_icons=true&include_all_commits=true&bg_color=45deg,#a83e32,#a87532)](https://github.com/MatteoTanziCodes/github-readme-stats)
   <br />
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatteoTanziCodes&bg_color=45,#a83e32,#a87532)](https://github.com/MatteoTanziCodes/github-readme-stats)
 
@@ -66,11 +66,6 @@
   
 <!--START_SECTION:activity-->
 
-
-
-
-
-<!--END_SECTION:activity-->
 
 </details>
 
