@@ -3,10 +3,10 @@
 
 ### About me 😃
 
- - 🏫 : I am currently a **BSc student** at Western University in my **third year [2022 Grad]!**
- - 🏫 : Honours Specialization: **Computer Science** | Minor: **Software Engineering**
+ - 🏫 : I am currently a **BSc student** at Western University in my **Fourth Year [2022 Grad]!**
+ - 🏫 : Honours Specialization: **Computer Science**
  - 📔 : My Goal for this year is to complete **two personal projects**
- - 🌱 : I am currently learning **C#**
+ - 🌱 : I am currently learning **3D Slicer**
  - 📫 : Get in touch with me at **matteotanzibusiness@gmail.com**
  - 🏀 : I spend a lot of time playing **basketball**
 
