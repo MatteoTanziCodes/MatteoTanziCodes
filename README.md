@@ -3,19 +3,17 @@
 
 ### About me 😃
 
- - 🏫 : I am currently a **BSc student** at Western University in my **Fourth Year [2022 Grad]!**
+ - 🏫 : I am a recently grauated **BSc student** from Western University
  - 🏫 : Honours Specialization: **Computer Science**
- - 📔 : My Goal for this year is to complete **two personal projects**
- - 🌱 : I am currently learning 
+ - 💻 : I am currently working on Basketball-Analyzer
  - 📫 : Get in touch with me at **matteotanzibusiness@gmail.com**
- - 🏀 : I spend a lot of time playing **basketball**
+ - 🏂 : Snowboarding is one of my hobbies
 
 ### Connect with me 📳
 
 [<img align="left" alt="TaeSpencerTanzi | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="TaeSpencerTanzi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="TaeSpencerTanzi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="TaeSpencerTanzi | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -27,21 +25,16 @@
 <img align="left" alt="JavaScript" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="GraphQL" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
-<img align="left" alt="Node.js" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="SQL" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="Git" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="22px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="C#" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/464px-C_Sharp_wordmark.svg.png" />
 <img align="left" alt="Java" width="22px" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/300px-Java_programming_language_logo.svg.png" />
-<img align="left" alt="Vue.js" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" />
 <img align="left" alt="JQuery" width="22px" src="https://github.com/prplx/svg-logos/blob/master/svg/jquery.svg" />
 <img align="left" alt="C++" width="22px" src="https://raw.githubusercontent.com/isocpp/logos/64ef037049f87ac74875dbe72695e59118b52186/cpp_logo.svg" />
 <img align="left" alt="Python" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/python/python-original.svg" />
 <img align="left" alt="Linux" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/linux/linux-original.svg" />
-<img align="left" alt="Angular" width="22px" src="https://github.com/prplx/svg-logos/blob/master/svg/angular.svg" />
-
 
 <br />
 <br />
@@ -63,5 +56,4 @@
 
 [twitter]: https://twitter.com/TaeSpencerTanzi
 [youtube]: https://youtube.com/TaeSpencerTanzi
-[instagram]: https://instagram.com/Tae.Tanzi
 [linkedin]: https://linkedin.com/in/matteospencertanzi
