@@ -40,15 +40,12 @@
 <br />
 
 ---
-<details>
+
   <summary>:zap: GitHub Stats</summary>
 
   [![Matteo's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatteoTanziCodes&show_icons=true&include_all_commits=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/MatteoTanziCodes/github-readme-stats)
   <br />
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatteoTanziCodes&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/MatteoTanziCodes/github-readme-stats)
-
-
-</details>
 
 ---
 
