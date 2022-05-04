@@ -1,5 +1,4 @@
 ## Hello, I'm **Matteo** - This is my Github MatteoTanziCodes 👋
-![Profile Views](https://gpvc.arturio.dev/MatteoTanziCodes)
 
 ### About me 😃
 
