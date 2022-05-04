@@ -52,8 +52,6 @@
 
 ---
 
-👇🏻 Here is a list of the Open Source projects I work on: 👇🏻
-
 [twitter]: https://twitter.com/TaeSpencerTanzi
 [youtube]: https://youtube.com/TaeSpencerTanzi
 [linkedin]: https://linkedin.com/in/matteospencertanzi
