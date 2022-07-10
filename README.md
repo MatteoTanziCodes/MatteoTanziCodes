@@ -4,7 +4,7 @@
 
  - 🏫 : I am a recently grauated **BSc student** from Western University
  - 🏫 : Honours Specialization: **Computer Science**
- - 💻 : I am currently working on Basketball-Analyzer
+ - 💻 : I am currently working on SongRequests
  - 📫 : Get in touch with me at **matteotanzibusiness@gmail.com**
  - 🏂 : Snowboarding is one of my hobbies
 
