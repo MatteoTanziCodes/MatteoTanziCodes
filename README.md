@@ -1,12 +1,10 @@
 ## Hello, I'm **Matteo** - Welcome to my Github
 
-### About me 😃
+### About me
 
- - 🏫 : I am a recently grauated **BSc student** from Western University
+ - 🏫 : I am a **BSc student** from Western University
  - 🏫 : Honours Specialization: **Computer Science**
- - 💻 : I am currently working on Chess-Duolingo
  - 📫 : Get in touch with me at **matteotanzibusiness@gmail.com**
- - 🏂 : Snowboarding is one of my hobbies
 
 ### Connect with me 📳
 
