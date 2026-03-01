@@ -64,32 +64,3 @@ Portfolio: https://yourwebsite.com
 
 Email: matteotanzibusiness@gmail.com  
 LinkedIn: https://linkedin.com/in/matteospencertanzi
-
----
-
-## Technical Skills
-
-### Cloud & Infrastructure
-- AWS (Lambda, Redshift, SNS, SQS, EC2)
-- Infrastructure-as-Code concepts
-- Event-driven system design
-
-### Backend
-- Python
-- Java
-- C++
-- C#
-- SQL / MySQL
-
-### Frontend
-- React
-- JavaScript
-- HTML5
-- CSS3
-- GraphQL
-
-### Tooling
-- Git
-- GitHub
-- Linux
-- VS Code
