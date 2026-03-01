@@ -24,9 +24,9 @@ Contributed to the design and implementation of a high-volume internal payments 
 
 #### Architecture & Stack
 - AWS Lambda
-- Amazon Redshift
+- AWS Kinesis
+- AWS Redshift
 - SNS / SQS
-- EC2
 - PowerBI
 
 #### Impact
