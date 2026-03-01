@@ -1,37 +1,95 @@
-## Hello, I'm **Matteo** - Welcome to my Github
+# Matteo Tanzi
 
-### About me
-
- - 🏫 : I am a **BSc student** from Western University
- - 🏫 : Honours Specialization: **Computer Science**
- - 📫 : Get in touch with me at **matteotanzibusiness@gmail.com**
-
-### Connect with me 📳
-
-[<img align="left" alt="TaeSpencerTanzi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-<br />
-
-### Languages and Tools 💻
-
-<img align="left" alt="Visual Studio Code" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="GraphQL" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
-<img align="left" alt="SQL" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Git" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="22px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="C#" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/464px-C_Sharp_wordmark.svg.png" />
-<img align="left" alt="Java" width="22px" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/300px-Java_programming_language_logo.svg.png" />
-<img align="left" alt="C++" width="22px" src="https://raw.githubusercontent.com/isocpp/logos/64ef037049f87ac74875dbe72695e59118b52186/cpp_logo.svg" />
-<img align="left" alt="Python" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/python/python-original.svg" />
-<img align="left" alt="Linux" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/linux/linux-original.svg" />
-
-<br />
-<br />
+Full-Stack Developer | AWS Systems | Scalable Infrastructure | Agentic DevOps
 
 ---
-[linkedin]: https://linkedin.com/in/matteospencertanzi
+
+## About Me
+
+I am a BSc graduate from Western University with an Honours Specialization in Computer Science.
+
+I build scalable backend systems and monitoring platforms with a focus on cloud architecture, distributed systems, and cost-efficient infrastructure. I am particularly interested in AI-driven automation, agentic DevOps practices, and intelligent infrastructure orchestration.
+
+Location: Toronto, Canada
+
+---
+
+## Professional Experience
+
+### Bank of Montreal (BMO)
+
+**LENS – Enterprise Payments Monitoring Platform**
+
+Contributed to the design and implementation of a high-volume internal payments monitoring system capable of processing approximately 500 payments per minute while handling RSA-encrypted payloads with a sub-one-minute display latency requirement.
+
+#### Architecture & Stack
+- AWS Lambda
+- Amazon Redshift
+- SNS / SQS
+- EC2
+- PowerBI
+
+#### Impact
+- Replaced a legacy third-party vendor solution
+- Reduced vendor licensing costs by more than 60% year-over-year
+- Improved operational transparency and monitoring speed
+- Delivered a scalable internal platform for sensitive financial data
+
+---
+
+## Engineering Focus
+
+### Cloud & Backend Systems
+- Designing distributed systems on AWS
+- Building event-driven architectures
+- Optimizing data pipelines and monitoring infrastructure
+- Performance and cost optimization in production environments
+
+### Agentic DevOps & Automation
+- Applying AI-assisted development workflows to improve delivery speed and code quality
+- Designing automated review and validation flows for pull requests
+- Infrastructure-as-Code driven environments
+- Observability-first system design
+- Reducing manual operational overhead through automation
+
+---
+
+## Website
+
+Portfolio: https://yourwebsite.com
+
+---
+
+## Contact
+
+Email: matteotanzibusiness@gmail.com  
+LinkedIn: https://linkedin.com/in/matteospencertanzi
+
+---
+
+## Technical Skills
+
+### Cloud & Infrastructure
+- AWS (Lambda, Redshift, SNS, SQS, EC2)
+- Infrastructure-as-Code concepts
+- Event-driven system design
+
+### Backend
+- Python
+- Java
+- C++
+- C#
+- SQL / MySQL
+
+### Frontend
+- React
+- JavaScript
+- HTML5
+- CSS3
+- GraphQL
+
+### Tooling
+- Git
+- GitHub
+- Linux
+- VS Code
